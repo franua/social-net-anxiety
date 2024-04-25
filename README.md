@@ -1,4 +1,4 @@
- # Social Network stress Visualization and Analysis using Python
+ # Social Network stress Visualization, Analysis and a Predicirion Model training
 
 This repository contains an exploratory data analysis project focused on visualizing and analyzing social network stress data. The project includes the use of Jupyter Notebooks to analyze, visualize, and report insights from the dataset.
 
